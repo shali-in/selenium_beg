@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-10-02T10:15:11 IST" name="Default suite" finished-at="2020-10-02T10:17:07 IST" duration-ms="115944">
+    <groups>
+    </groups>
+    <test started-at="2020-10-02T10:15:11 IST" name="Default test" finished-at="2020-10-02T10:17:07 IST" duration-ms="115944">
+      <class name="com.herokuapp.theinternet.NegativeTests">
+        <test-method signature="incorrectpasswordtest()[pri:0, instance:com.herokuapp.theinternet.NegativeTests@43ee72e6]" started-at="2020-10-02T10:15:12 IST" name="incorrectpasswordtest" finished-at="2020-10-02T10:15:53 IST" duration-ms="41665" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- incorrectpasswordtest -->
+        <test-method signature="incorrectusernametest()[pri:0, instance:com.herokuapp.theinternet.NegativeTests@43ee72e6]" started-at="2020-10-02T10:15:53 IST" name="incorrectusernametest" finished-at="2020-10-02T10:16:27 IST" duration-ms="34186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- incorrectusernametest -->
+      </class> <!-- com.herokuapp.theinternet.NegativeTests -->
+      <class name="com.herokuapp.theinternet.PositiveTests">
+        <test-method signature="loginTest()[pri:0, instance:com.herokuapp.theinternet.PositiveTests@23529fee]" started-at="2020-10-02T10:16:27 IST" name="loginTest" finished-at="2020-10-02T10:17:07 IST" duration-ms="40013" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+      </class> <!-- com.herokuapp.theinternet.PositiveTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
